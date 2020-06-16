@@ -1,0 +1,459 @@
+CDK1		 PHA-767491	NVP-TAE684	R406	Dinaciclib	SNS-032	(s)-CR8	AT-7519	Seliciclib
+CDK2		 PHA-767491	Alvocidib	Dinaciclib	RO-3306	(s)-CR8	Seliciclib
+CDK3		 (s)-CR8	Lestaurtinib	Alvocidib
+CDK5		 Seliciclib	PHA-767491	Alvocidib	CGP74514A	NVP-TAE684	SNS-032	Dinaciclib	Palbociclib	CGP60474	(s)-CR8	AT-7519	Lestaurtinib
+CDK7		 KW2449	Sunitinib	BMS345541	THZ1	AZD 5438	Fedratinib	Crizotinib	JW-7-24-1	Nintedanib	CGP74514A	Gefitinib	NVP-TAE684	Dactolisib	(s)-CR8	PHA-665752	Seliciclib	Sorafenib
+CDK9		 PHA-793887	AZD 5438	Seliciclib	Dinaciclib	Palbociclib	(s)-CR8	Lestaurtinib
+PDGFRB		 KIN001-111	JW-7-24-1	BX-912	Tozasertib	WZ-4-145	5z-7-oxozeaenol	HG-6-64-01	WH-4-023	PLX-4720	AZ-628	AZD4547	Bosutinib	ALW-II-38-3	PKC412	GW843682X	HG-9-91-01	HG-14-10-04	AZD7762	ALW-II-49-7	NVP-TAE684	RAF 265
+MAP2K2		 KW2449	PD184352	KIN001-111	Sunitinib	BMS-536924	AZD7762	Dovitinib	5z-7-oxozeaenol	NVP-TAE684	R406	Palbociclib	ZM-447439	PD0325901	Selumetinib	PHA-665752	OTSSP167
+MAP2K5		 KW2449	Nilotinib	Ibrutinib	AZD7762	Fedratinib	Tozasertib	Alvocidib	5z-7-oxozeaenol	Gefitinib	NVP-TAE684	Pazopanib	Sorafenib
+MAP2K7		 Neratinib	Canertinib	5z-7-oxozeaenol
+RIOK3		 Momelotinib	Dovitinib	Tozasertib	5z-7-oxozeaenol	R406	PKC412	PHA-665752	MPS-1-IN-1
+CLK1		 PHA-665752	BI-2536	PHA-767491	PKC412	Foretinib	Bosutinib	Enzastaurin	GSK1059615	A443654	AT-7519	SNS-032
+CLK2		 WZ3105	HG-14-10-04	GSK 690693	Nintedanib	PHA-665752	BI-2536	PHA-767491	Palbociclib	Pictilisib	Enzastaurin	XMD15-27	Ruxolitinib	PKC412	A443654	Seliciclib
+CLK3		 BI-2536	NVP-TAE684	Bosutinib	GSK1059615	A443654	AT-7519
+CSNK1E		 KW2449	WZ3105	KIN001-111	AZD 5438	Gefitinib	Neratinib	Nintedanib	BI-2536	Canertinib	GDC-0879	Bosutinib	TAK-715	A443654	GSK1838705A	Erlotinib	Seliciclib	PHA-767491	BS-181	SB 203580	Ki20227	PHA-665752	SNS-032
+DYRK1A		 KW2449	Ruxolitinib	CP466722	R406	PKC412	A443654	OTSSP167	QL-X-138	RO-3306	Enzastaurin	GSK1059615	AT-7519	Afatinib	HG-14-10-04	Sunitinib	SGX523	AZD7762	Palbociclib	SNS-032
+MYLK		 KW2449	Sigma A6730	Sunitinib	Fedratinib	Nintedanib	NVP-TAE684	Bosutinib	Ruxolitinib	A443654
+PIM1		 GSK461364	GSK 690693	Alvocidib	Enzastaurin	PKC412	A443654	Lestaurtinib	Torin1
+PRKACA		 R406	Enzastaurin	Ruxolitinib	PKC412	A443654	Lestaurtinib
+PRKCE		 PHA-767491	BX-912	Alvocidib	Ruxolitinib	PKC412	A443654	Lestaurtinib
+PKN1		 KW2449	Sunitinib	AZD7762	Dovitinib	Nintedanib	NVP-TAE684	R406	HG-5-113-01	Tofacitinib	A443654
+PKN2		 GSK461364	NVP-TAE684	A443654	KW2449
+PRKCQ		 AZD7762	Alvocidib	Bosutinib	PKC412	A443654	Lestaurtinib
+DYRK3		 A443654
+DYRK1B		 KW2449	Palbociclib	RO-3306	PKC412	A443654	AT-7519	SNS-032	GSK1838705A
+RPS6KA5		 Sunitinib	GSK 690693	Dovitinib	KU63794	Nintedanib	BI-2536	R406	Enzastaurin	PKC412	Ruxolitinib	GW843682X	A443654	Lestaurtinib
+ROCK2		 KW2449	Baricitinib	Sunitinib	GSK 690693	GSK429286A	NVP-TAE684	R406	Palbociclib	Bosutinib	ZM-447439	Tofacitinib	Linifanib	A443654
+PIM2		 GSK 690693	PHA-767491	Alvocidib	Enzastaurin	A443654	Lestaurtinib
+PRKD2		 HG-14-10-04	Sunitinib	Nintedanib	PHA-767491	BI-2536	NVP-TAE684	A443654
+LATS2		 KIN001-111	Sunitinib	GSK 690693	Dovitinib	Nintedanib	BX-912	A443654
+TAOK3		 HG-9-91-01	Sunitinib	HG-6-64-01	XMD16-144	Crizotinib	BX-912	RAF 265	SNS-032	Bosutinib	Ruxolitinib	Linifanib	A443654	JWE-035
+TAOK1		 HG-9-91-01	Sunitinib	XMD-12	GSK 690693	JW-7-24-1	PHA-665752	Alvocidib	Tozasertib	R406	Pazopanib	Palbociclib	Linifanib	A443654	AT-7519
+HIPK1		 KW2449	GSK 690693	Fedratinib	R406	Foretinib	Bosutinib	Palbociclib	A443654	Lestaurtinib
+MAPK15		 AZD 5438	Fedratinib	PHA-767491	Alvocidib	NVP-TAE684	R406	GSK1059615	A443654	AT-7519	SNS-032	AC220
+AKT1		 PKC412	A443654
+PIM3		 GSK 690693	Alvocidib	PKC412	A443654	Torin1	Masitinib
+TPTEP2-CSNK1E		 KW2449	WZ3105	KIN001-111	AZD 5438	Gefitinib	Neratinib	Nintedanib	BI-2536	Canertinib	GDC-0879	Bosutinib	TAK-715	A443654	GSK1838705A	Erlotinib	PHA-767491	BS-181	SB 203580	Ki20227	PHA-665752	SNS-032
+CDK4		 KW2449	Abemaciclib	AZD 5438	Nintedanib	NVP-TAE684	KIN001-021	Ribociclib
+CDK6		 Ribociclib	Abemaciclib	AT-7519
+NTRK2		 KW2449	Nilotinib	Sunitinib	BMS-536924	Dovitinib	Tozasertib	Doramapimod	NVP-TAE684	R406	HG-5-113-01	AZD4547	Bosutinib	Ruxolitinib	PKC412	PHA-665752	AC220
+NTRK3		 KW2449	Nilotinib	BMS-536924	Dovitinib	Tozasertib	Doramapimod	R406	AZD4547	Ruxolitinib	Linifanib	PHA-665752	AC220	Sorafenib
+DDR2		 Vandetanib	AZD7762	ALW-II-49-7	Crizotinib	Fedratinib	Tozasertib	WH-4-023	RAF 265	AZD4547	Bosutinib	ALW-II-38-3	Lestaurtinib	AC220
+TKT		 Vandetanib	Fedratinib	Tozasertib	RAF 265	Bosutinib	Lestaurtinib	AC220
+RIPK1		 Sunitinib	Dovitinib	Nintedanib	Pazopanib	Foretinib	AZD4547	XMD13-2	AC220
+MAP4K5		 KW2449	KIN001-111	BMS-536924	Dovitinib	Nintedanib	Vandetanib	Barasertib	NVP-TAE684	RAF 265	Dactolisib	Linifanib	GW843682X	AC220
+MYLK3		 Nintedanib	BX-912	AC220
+HIPK4		 Afatinib	Sunitinib	Fedratinib	PHA-767491	Gefitinib	NVP-TAE684	RAF 265	Bosutinib	Erlotinib	Imatinib	PKC412	Lestaurtinib	AC220
+ABL1		 TAK-715	Afatinib	KIN001-111	Sunitinib	AZD7762	HG-6-64-01	WH-4-023	XMD16-144	Lestaurtinib	AG1478	Gefitinib	Pazopanib	R406	Ki20227	MLN8054	GW843682X	JWE-035	Sorafenib
+BLK		 KIN001-111	Nilotinib	WZ-4-145	Dovitinib	Fedratinib	Crizotinib	Nintedanib	WH-4-023	Doramapimod	PKC412	HG-9-91-01	BMS-536924	Erlotinib	Lestaurtinib	Afatinib	AZD7762	Ki20227	Imatinib	Masitinib
+IRAK1		 Afatinib	HG-14-10-04	AZD7762	Dovitinib	Fedratinib	Nintedanib	Alvocidib	Canertinib	Bosutinib	THZ-2-98-01	Ruxolitinib
+LCK		 KIN001-111	Ibrutinib	JW-7-24-1	Gefitinib	Neratinib	Dovitinib	Barasertib	Canertinib	Tofacitinib	PKC412	BMS-536924	Erlotinib	MLN8054	Lestaurtinib	Afatinib	Sunitinib	Motesanib	AZD7762	RAF 265	Ki20227	Ceritinib	PHA-665752
+PHKG2		 KW2449	Afatinib	Nintedanib	R406	SNS-032
+EPHA6		 Afatinib	HG-9-91-01	Nilotinib	Sunitinib	Motesanib	HG-6-64-01	Nintedanib	WH-4-023	Brivanib	Canertinib	Gefitinib	NVP-TAE684	AZ-628	R406	Erlotinib	MLN8054	Linifanib	Sorafenib
+ABL2		 KW2449	KIN001-111	HG-6-64-01	Fedratinib	Crizotinib	WH-4-023	AG1478	Canertinib	NVP-TAE684	R406	Erlotinib	Ki20227	ALW-II-38-3	Masitinib
+MAPK14		 HG-9-91-01	Nilotinib	HG-6-64-01	AG1478	Foretinib	AZ-628	ALW-II-38-3	Sorafenib
+GAK		 KW2449	Neratinib	Dovitinib	Alvocidib	AG1478	Canertinib	BI-2536	Pazopanib	R406	XMD8-85	GSK1059615	PKC412	GSK1838705A
+MKNK1		 Vandetanib	AG1478	Canertinib	Gefitinib	R406	Erlotinib	Sorafenib
+PIK3CB		 Buparlisib	Omipalisib	GSK1059615	Alpelisib	Dactolisib
+PIK3CD		 Buparlisib	Omipalisib	Alpelisib	GSK1059615	TGX221	JWE-035	Torin1
+PIK3CG		 NU7441	Buparlisib	Omipalisib	Alpelisib	XMD16-144	JW-7-24-1	Lestaurtinib	AZD-6482	GSK1059615	JWE-035	Torin1
+ALK		 KW2449	HG-14-10-04	Sunitinib	BMS-536924	AZD7762	Fedratinib	Alvocidib	BI-2536	R406	Bosutinib	Dactolisib	PKC412
+CCND1		 SNS-032	AT-7519	Alvocidib
+BMPR1B		 KW2449	HG-9-91-01	Vandetanib	Fedratinib	Crizotinib	WH-4-023	Alvocidib	Dabrafenib	R406	Linifanib	OTSSP167
+CCNA2		 Seliciclib	Alvocidib
+CCND2		 SNS-032	Alvocidib
+CCND3		 SNS-032	AT-7519	Alvocidib
+CCNE1		 Seliciclib	Alvocidib
+CCNH		 Seliciclib	Alvocidib
+CDK8		 Foretinib	Alvocidib	Doramapimod	Sorafenib
+CDKN3		 Lestaurtinib	Alvocidib
+DMPK		 WH-4-023	Lestaurtinib	Alvocidib
+GSK3B		 GSK 690693	Dovitinib	PHA-767491	Alvocidib	R406	RO-3306
+CDK16		 KW2449	Sunitinib	BMS345541	AZD 5438	Dovitinib	Tozasertib	Alvocidib	Dabrafenib	NVP-TAE684	Foretinib	OTSSP167
+CDK17		 Fedratinib	Alvocidib	Dabrafenib	NVP-TAE684	R406	Foretinib	PHA-665752	Lestaurtinib
+CDK14		 KW2449	Sunitinib	Nintedanib	Alvocidib	SNS-032	Dinaciclib	Lestaurtinib
+PRKCD		 XMD11-85h	PHA-767491	Alvocidib	RO-3306	PKC412	Lestaurtinib
+PRKCH		 PKC412	Lestaurtinib	Alvocidib
+PRKD1		 Neratinib	Sunitinib	Nintedanib	Crizotinib	Alvocidib	BI-2536	GSK1838705A
+MAPK7		 HG-9-91-01	BMS345541	XMD-12	XMD8-92	XMD16-144	Crizotinib	Alvocidib	SNS-032	XMD8-85	XMD11-50	JWE-035
+GRK1		 Sunitinib	GSK 690693	Alvocidib	NVP-TAE684	R406	Ruxolitinib	GSK1838705A
+TYK2		 Dasatinib	KW2449	Sunitinib	BMS-536924	Fedratinib	Nintedanib	BX-912	Alvocidib	NVP-TAE684	R406	RAF 265	PKC412	Lestaurtinib
+CDK13		 Foretinib	BMS345541	Alvocidib
+CDK5R1		 Seliciclib	CGP60474	Alvocidib
+CCNA1		 Seliciclib	Alvocidib
+CCNB2		 Seliciclib	SNS-032	AT-7519	Alvocidib
+CCNE2		 Seliciclib	Alvocidib
+TAOK2		 HG-9-91-01	XMD-12	Fedratinib	Crizotinib	Tozasertib	Lestaurtinib	Alvocidib	XMD16-144	NVP-TAE684	R406	RAF 265	Ruxolitinib	JWE-035	Sorafenib
+ULK2		 KW2449	HG-9-91-01	AZD7762	Nintedanib	Alvocidib	Palbociclib	Bosutinib	MRT67307	Ruxolitinib	JWE-035
+CAMKK2		 KW2449	Nintedanib	Alvocidib	Bosutinib	XMD11-50
+CIT		 KW2449	GSK 690693	Motesanib	HG-6-64-01	Fedratinib	PHA-767491	Alvocidib	R406	AZ-628	SB 203580	Erlotinib	MRT67307
+PRKD3		 KW2449	HG-14-10-04	Sunitinib	GSK 690693	Nintedanib	Crizotinib	PHA-767491	Alvocidib	BI-2536	Palbociclib	TAK-715	MRT67307	SNS-032	GSK1838705A
+Dyrk1a		 Alvocidib
+EIF2AK1		 Foretinib	Bosutinib	Alvocidib
+TBK1		 KW2449	Sunitinib	Dovitinib	Nintedanib	Crizotinib	Tozasertib	Alvocidib	NVP-TAE684	Foretinib	Bosutinib	MRT67307	PHA-665752
+CDK15		 SNS-032	PHA-665752	Alvocidib
+PIP4K2C		 PI103	Alvocidib	BI-2536	R406	Pazopanib	Imatinib
+CCNB3		 Seliciclib	SNS-032	AT-7519	Alvocidib
+GRK7		 Sunitinib	GSK 690693	Alvocidib	BI-2536	NVP-TAE684	Ruxolitinib	GSK1838705A
+STK35		 Dasatinib	KW2449	Nintedanib	Crizotinib	Alvocidib	NVP-TAE684	Foretinib	Lestaurtinib
+BRAF		 Dasatinib	Motesanib	SB590885	PLX-4720	R406	Pazopanib	AZ-628	RAF 265	SB 203580	ALW-II-38-3
+DDR1		 QL-XI-92	Motesanib	ALW-II-49-7	Crizotinib	Brivanib	WZ-4-145	Canertinib	NVP-TAE684	AZ-628	AZD4547	Bosutinib	Erlotinib	ALW-II-38-3	BGJ398	Lestaurtinib
+CSF1R		 KW2449	KIN001-111	WZ-4-145	Neratinib	HG-6-64-01	Fedratinib	Crizotinib	WH-4-023	AZ-628	AZD4547	Bosutinib	ALW-II-38-3	Dactolisib	GW843682X	PKC412	BMS-536924	XMD16-144	Lestaurtinib	AZD7762	RAF 265	BGJ398	WZ-7043	PHA-665752
+EPHA2		 HG-9-91-01	Nilotinib	ALW-II-49-7	Crizotinib	Tozasertib	WH-4-023	NVP-TAE684	R406	ALW-II-38-3	Lestaurtinib	MLN8054
+EPHA3		 KW2449	Nilotinib	ALW-II-49-7	Crizotinib	WH-4-025	Doramapimod	R406	ALW-II-38-3	KIN001-021	Lestaurtinib
+EPHA4		 HG-9-91-01	Nilotinib	OTSSP167	HG-6-64-01	ALW-II-49-7	Crizotinib	WH-4-023	NVP-TAE684	R406	AZ-628	ALW-II-38-3	MLN8054
+EPHA5		 Vandetanib	ALW-II-49-7	R406	Erlotinib	ALW-II-38-3
+EPHA8		 HG-9-91-01	ALW-II-49-7	Crizotinib	Tozasertib	WH-4-025	Doramapimod	Erlotinib	ALW-II-38-3	OTSSP167
+EPHB2		 HG-9-91-01	Nilotinib	Ibrutinib	HG-6-64-01	Vandetanib	WH-4-023	Doramapimod	NVP-TAE684	R406	AZ-628	ALW-II-38-3	OTSSP167
+EPHB3		 HG-9-91-01	ALW-II-49-7	WH-4-023	WH-4-025	NVP-TAE684	AZ-628	Bosutinib	ALW-II-38-3	XMD14-99
+EPHB4		 HG-9-91-01	Nilotinib	ALW-II-38-3	Vandetanib	ALW-II-49-7	Crizotinib	WH-4-023	NVP-TAE684	R406	MLN8054
+FRK		 TAK-715	KIN001-111	HG-9-91-01	Sunitinib	Vandetanib	Fedratinib	WH-4-023	RAF 265	Pazopanib	Ki20227	ALW-II-38-3	Linifanib	Lestaurtinib	Sorafenib
+KIT		 BMS-536924	AZD7762	ALW-II-49-7	Fedratinib	Tozasertib	Vandetanib	Doramapimod	NVP-TAE684	RAF 265	Bosutinib	ALW-II-38-3	GW843682X
+PDGFRA		 KW2449	Vandetanib	AZD7762	ALW-II-49-7	PLX-4720	BX-912	WZ-4-145	NVP-TAE684	AZ-628	Pictilisib	ZM-447439	ALW-II-38-3	PKC412	Lestaurtinib
+MAPK11		 Dasatinib	TAK-715	HG-9-91-01	HG-6-64-01	Foretinib	AZ-628	ALW-II-38-3	Linifanib	XMD11-50	Sorafenib
+SRC		 KIN001-111	HG-9-91-01	OTSSP167	Sunitinib	BMS-536924	AZD7762	Ibrutinib	Crizotinib	Nintedanib	Tozasertib	WH-4-025	CGP74514A	NVP-TAE684	Erlotinib	ALW-II-38-3	Lestaurtinib	MLN8054	Masitinib
+PIK3CA		 NU7441	AZD-6482	GSK1059615	AS-252424	Torin2	Torin1
+MAPK8		 KW2449	HG-14-10-04	HG-9-91-01	Nilotinib	OTSSP167	SP600125	AZD 5438	Fedratinib	Nintedanib	ZG-10	NVP-TAE684	AS601245	GSK1838705A
+MAPK9		 KW2449	JNK-IN-5A	HG-14-10-04	HG-9-91-01	SP600125	AZD 5438	Fedratinib	HG-6-64-01	ZG-10	NVP-TAE684	Foretinib	AS601245	SB 203580	TAK-715	Linifanib	Lestaurtinib	GSK1838705A
+MAPK10		 JNK-IN-5A	HG-14-10-04	HG-9-91-01	OTSSP167	SP600125	AZD 5438	Fedratinib	Nintedanib	BX-912	Doramapimod	ZG-10	AS601245	Pictilisib	TAK-715	JNK-IN-8	JNK-9L	GSK1838705A
+CCNB1		 SNS-032	AT-7519	Seliciclib
+RAF1		 Dasatinib	GW-5074	Motesanib	SB590885	Dabrafenib	R406	Lapatinib	AZ-628	Pazopanib	RAF 265	SB 203580	Vemurafenib
+STK10		 KIN001-111	Tozasertib	WZ-4-145	Gefitinib	HG-5-113-01	Dovitinib	HG-6-64-01	WH-4-023	Brivanib	AZ-628	AZD4547	PKC412	GW843682X	OTSSP167	Sorafenib	HG-9-91-01	WH-4-025	GSK1059615	Linifanib	HG-14-10-04	AZD7762	PHA-665752
+YES1		 Neratinib	KIN001-111	HG-9-91-01	Sunitinib	Ibrutinib	Dovitinib	Fedratinib	Crizotinib	Tozasertib	Vandetanib	WH-4-023	RAF 265	AZ-628	MLN8054	PKC412	Lestaurtinib	Masitinib
+CSNK2A2		 GSK461364	KW2449	HG-14-10-04	Sunitinib	AZD 5438	Fedratinib	Dovitinib	Nintedanib	BX-912	Lestaurtinib	OTSSP167
+JAK2		 HG-14-10-04	Sunitinib	BMS-536924	AZD 5438	AZD7762	Crizotinib	Dovitinib	BX-912	PHA-665752	PHA-767491	Tozasertib	Palbociclib	JNK-9L	JWE-035
+JAK3		 Momelotinib	Ibrutinib	AZD 5438	Tozasertib	BX-912	Dasatinib	HG-14-8-02	Baricitinib	Dovitinib	Crizotinib	WZ4002	Canertinib	AZD4547	MRT67307	GW843682X	HG-9-91-01	BMS-536924	QL-X-138	Erlotinib	GSK1059615	HG-14-10-04	AZD7762	PHA-767491	PHA-665752
+MAP2K4		 KW2449	Sunitinib	SP600125	AZD 5438	PLX-4720	NVP-TAE684	Pazopanib	R406	GSK1838705A
+STK17B		 AZD 5438	Nintedanib	Sunitinib	BMS-536924
+STK17A		 Neratinib	BMS-536924	AZD 5438	Fedratinib	Dovitinib	Nintedanib	RO-3306	Enzastaurin	MLN8054	SNS-032
+MAP3K19		 Vandetanib	AZD 5438	BX-912	Gefitinib	Pazopanib	Ruxolitinib	HG-14-8-02	PI103	Crizotinib	Brivanib	BI-2536	Canertinib	GDC-0879	AZD4547	MRT67307	GSK1838705A	BMS345541	GSK1059615	Linifanib	Motesanib	AZD7762	PHA-767491	ZG-10
+FGFR1		 KW2449	HG-14-10-04	Sunitinib	BMS-536924	Dovitinib	Fedratinib	HG-6-64-01	Ibrutinib	Tozasertib	Vandetanib	Pazopanib	Foretinib	AZD4547	BGJ398	Lestaurtinib
+FGFR3		 KW2449	Sunitinib	Dovitinib	Fedratinib	Nintedanib	Tozasertib	Brivanib	NVP-TAE684	Pazopanib	AZD4547	BGJ398	Lestaurtinib
+FGFR2		 KW2449	Sunitinib	Ibrutinib	Dovitinib	Fedratinib	Nintedanib	Tozasertib	Brivanib	NVP-TAE684	Pazopanib	Foretinib	AZD4547	BGJ398	Lestaurtinib	Ceritinib
+FLT1		 KIN001-111	Ibrutinib	AZD7762	Vandetanib	Barasertib	Tozasertib	Doramapimod	NVP-TAE684	RAF 265	AZD4547	Ki20227	TAK-715	PKC412	GW843682X	Lestaurtinib
+KDR		 KW2449	AZD7762	WH-4-023	Barasertib	PD173074	NVP-TAE684	RAF 265	AZD4547	Erlotinib	ZM-447439	TAK-715	PKC412	GW843682X	Vemurafenib	Lestaurtinib
+NTRK1		 KW2449	Sunitinib	BMS-536924	AZD7762	Fedratinib	Dovitinib	Ibrutinib	NVP-TAE684	R406	AZD4547	PKC412	GW843682X	PHA-665752
+RET		 Nilotinib	BX-912	Pazopanib	Ruxolitinib	Dasatinib	HG-6-64-01	Fedratinib	Barasertib	Brivanib	KIN001-123	Doramapimod	AZD4547	OTSSP167	BMS-536924	Erlotinib	Linifanib	HG-14-10-04	AZD7762	NVP-TAE684	RAF 265	PHA-665752
+AURKA		 KW2449	KIN001-111	Ibrutinib	XMD16-144	Crizotinib	Barasertib	R406	Foretinib	AZD4547	KIN001-220	ZM-447439	PKC412	XMD11-50	JWE-035	OTSSP167
+MAP3K2		 Dasatinib	Neratinib	Baricitinib	XMD-12	GSK 690693	AZD7762	Fedratinib	XMD16-144	NVP-TAE684	Pazopanib	AZD4547	PKC412
+WNK3		 AZD4547
+AXL		 KW2449	Neratinib	BMS-536924	AZD7762	Fedratinib	Vandetanib	Barasertib	Tozasertib	Ki20227	MLN8054	PKC412	Linifanib	GW843682X	PHA-665752	GSK1838705A
+BMPR2		 KW2449	Sunitinib	AZD7762	BX-912	Bosutinib	Ruxolitinib
+CHUK		 KW2449	Sunitinib	BMS345541	Momelotinib	SP600125	AZD7762	Fedratinib	HG-6-64-01	PHA-767491	R406
+CSK		 Neratinib	KIN001-111	Ibrutinib	AZD7762	Dabrafenib	R406	Foretinib	Lestaurtinib
+DAPK1		 KW2449	Sunitinib	BMS-536924	AZD7762	BI-2536	GSK1838705A
+EPHA7		 KW2449	AZD7762	Crizotinib	Doramapimod	NVP-TAE684	Linifanib	Lestaurtinib
+ERBB2		 Dasatinib	HG-14-8-02	HG-14-10-04	HG-9-91-01	Ibrutinib	AZD7762	HG-6-64-01	Gefitinib	NVP-TAE684	Foretinib	Erlotinib	ZM-447439
+FER		 Neratinib	HG-14-10-04	KIN001-111	AZD7762	Crizotinib	Bosutinib
+FLT3		 GSK461364	WZ3105	HG-14-10-04	BMS-536924	AZD7762	Vandetanib	Crizotinib	Barasertib	BX-912	Enzastaurin	Erlotinib	PHA-665752
+FLT4		 HG-14-10-04	Vandetanib	AZD7762	Dovitinib	XMD11-85h	KIN001-123	BX-912	WZ-4-145	Ki20227	TAK-715	PKC412	OTSSP167
+FYN		 KW2449	KIN001-111	HG-9-91-01	Sunitinib	BMS-536924	AZD7762	Dovitinib	Nintedanib	Tozasertib	Vandetanib	WH-4-023	NVP-TAE684	TAK-715	GW843682X	Masitinib
+GRK4		 Sunitinib	AZD7762	Fedratinib	Tozasertib	R406	PKC412	PHA-665752
+MKNK2		 HG-14-10-04	CP724714	SP600125	AZD7762	Fedratinib	BX-912	PHA-767491	Gefitinib	QL-X-138	XMD8-85	Ruxolitinib	Linifanib	PKC412	Sorafenib
+HCK		 Neratinib	KIN001-111	Nilotinib	Sunitinib	Ibrutinib	AZD7762	BMS-536924	Vandetanib	NVP-TAE684	R406	Ki20227	PKC412	Lestaurtinib	Masitinib
+MAP3K3		 Dasatinib	KW2449	Neratinib	Sunitinib	XMD-12	GSK 690693	AZD7762	XMD16-144	Crizotinib	NVP-TAE684	R406	Ruxolitinib	PKC412
+MAP3K11		 KW2449	Sunitinib	Ibrutinib	AZD7762	BMS-536924	Nintedanib	Tozasertib	NVP-TAE684	Pazopanib	Foretinib
+PHKG1		 KW2449	AZD7762	Fedratinib	Dovitinib	Nintedanib	Bosutinib	PKC412
+MAP2K1		 KW2449	PD184352	KIN001-111	Sunitinib	BMS-536924	AZD7762	Dovitinib	PLX-4720	NVP-TAE684	R406	Palbociclib	Torin1	ZM-447439	OTSSP167
+PTK2		 HG-14-10-04	Sunitinib	BMS-536924	AZD7762	HG-5-88-01	Crizotinib	Nintedanib	WZ4002	BI-2536	R406	Foretinib	Bosutinib	HG-5-113-01	GW843682X	GSK1838705A	MPS-1-IN-1
+MAP4K2		 Neratinib	NG25	AZD7762	HG-6-64-01	Nintedanib	Canertinib	NVP-TAE684	R406
+SRMS		 KIN001-111	Ibrutinib	AZD7762	WH-4-025	Dabrafenib	NVP-TAE684	R406	Bosutinib	Ki20227	Vemurafenib	Lestaurtinib
+STK3		 BMS-536924	AZD7762	Dovitinib	Crizotinib	Tozasertib	XMD16-144	NVP-TAE684	Bosutinib	PKC412	GW843682X
+SYK		 KW2449	BMS-536924	AZD7762	NVP-TAE684	Foretinib	Bosutinib
+MAP3K7		 NG25	AZD7762	Dovitinib	Barasertib	Doramapimod	NVP-TAE684	RAF 265	Foretinib	Bosutinib	Ruxolitinib	PKC412	Sorafenib
+TXK		 KW2449	KIN001-111	AZD7762	Nintedanib	Crizotinib	Canertinib	NVP-TAE684	R406	Foretinib	Lestaurtinib
+ZAP70		 AZD7762	KW2449
+PIP5K1A		 GSK461364	AZD7762	Crizotinib	Tozasertib	KIN001-220	PKC412	PHA-665752
+ULK1		 WZ3105	HG-14-10-04	AZD7762	Fedratinib	Nintedanib	BX-912	MRT67307	Ruxolitinib	JWE-035
+MAPKAPK5		 AZD7762	PHA-767491	Lestaurtinib
+MAPKAPK2		 AZD7762	PHA-767491	Lestaurtinib
+SLK		 Dasatinib	HG-14-10-04	HG-9-91-01	AZD7762	Dovitinib	Fedratinib	KIN001-123	Brivanib	WH-4-023	Doramapimod	CGP74514A	Gefitinib	Pazopanib	HG-5-113-01	RAF 265	Linifanib	PKC412	PHA-665752
+NUAK1		 WZ4003	GSK 690693	BMS-536924	AZD7762	Dovitinib	Ibrutinib	Nintedanib	BX-912	Tozasertib	MRT67307	PHA-665752
+MERTK		 KW2449	Neratinib	HG-14-10-04	BMS-536924	AZD7762	Fedratinib	R406	Bosutinib	Erlotinib	Ki20227	MLN8054	Linifanib
+STK25		 AZD7762	Sunitinib	Bosutinib
+PLK4		 HG-14-10-04	KIN001-111	Sunitinib	XMD11-50	Vandetanib	AZD7762	XMD16-144	PHA-767491	Dabrafenib	Pazopanib	Ki20227	MLN8054	Ruxolitinib	GW843682X	PHA-665752	JWE-035	OTSSP167
+STK38L		 AZD7762	NVP-TAE684	Sunitinib	Lestaurtinib
+TNIK		 Neratinib	BMS-536924	AZD7762	Brivanib	Doramapimod	Pazopanib	Foretinib	SB 203580	PHA-665752
+ULK3		 KW2449	HG-14-10-04	BMS-536924	AZD7762	Dovitinib	Fedratinib	Tozasertib	BX-912	Foretinib	Bosutinib	Erlotinib	OTSSP167
+IRAK4		 KW2449	AZD7762	Dovitinib	Nintedanib	BX-912	Gefitinib	R406	Bosutinib
+BMP2K		 GSK461364	Baricitinib	BMS-536924	AZD7762	Crizotinib	BX-912	Bosutinib	KIN001-220	GSK1059615	Ruxolitinib	PKC412
+PAK5		 KW2449	Sunitinib	BMS-536924	AZD7762	NVP-TAE684
+STK33		 Neratinib	KW2449	XMD11-50	BMS-536924	AZD7762	Fedratinib	R406	PKC412	PHA-665752
+SBK1		 KW2449	Sunitinib	AZD7762	Fedratinib	Nintedanib	Gefitinib	Lestaurtinib
+PF3D7_0217500		 Dasatinib	HG-9-91-01	Nilotinib	Ibrutinib	AZD7762	Dovitinib	Dabrafenib	NVP-TAE684	Pazopanib	Foretinib	SB 203580	Vemurafenib	PKC412	Sorafenib
+pknB		 KW2449	BMS345541	AZD7762	Fedratinib	Dovitinib	OTSSP167
+SBK3		 KW2449	AZD7762	Crizotinib	Tozasertib	R406	Lestaurtinib
+ERBB4		 HG-14-8-02	Ibrutinib	HG-6-64-01	Vandetanib	Barasertib	Gefitinib	NVP-TAE684	Foretinib	R406	Erlotinib	TAK-715
+TIE1		 KW2449	Neratinib	BMS-536924	Fedratinib	Crizotinib	Barasertib	Tozasertib	WZ-4-145	RAF 265	Pazopanib	Erlotinib	Linifanib	Lestaurtinib
+Tuba1a		 CP724714	Vandetanib	Barasertib	Gefitinib	Erlotinib
+CAMK2A		 NVP-TAE684	Fedratinib	Baricitinib
+ROCK1		 KW2449	Baricitinib	KIN001-111	Sunitinib	GSK 690693	Dovitinib	PHA-767491	GSK429286A	R406	Bosutinib	Tofacitinib
+PRPF4B		 KW2449	Baricitinib	Sunitinib	Dovitinib	Fedratinib	Lestaurtinib
+DAPK3		 KW2449	GSK 690693	PI103	BI-2536	Palbociclib
+PTK2B		 KW2449	HG-14-10-04	BMS-536924	Fedratinib	Crizotinib	BI-2536	Doramapimod	HG-5-113-01	Bosutinib	PKC412	GW843682X	PHA-665752	MPS-1-IN-1
+NEK3		 R406	Fedratinib	BI-2536
+PKD1		 Sunitinib	Ibrutinib	Nintedanib	BI-2536	GSK1838705A
+PKD2		 Sunitinib	Nintedanib	PHA-767491	BI-2536	NVP-TAE684
+EIF2AK2		 Sunitinib	BI-2536	R406	RAF 265	Lestaurtinib
+RPS6KA2		 BI-D1870	Dovitinib	BI-2536	Enzastaurin	Tofacitinib	Ruxolitinib	PKC412	Lestaurtinib
+DAPK2		 NVP-TAE684	PKC412	Sunitinib	BI-2536
+NIM1K		 Sunitinib	Dovitinib	BX-912	BI-2536	R406
+CSNK1A1		 BI-D1870	Bosutinib	TAK-715
+RPS6KA1		 BI-D1870	Sunitinib	Vandetanib	Dovitinib	Fedratinib	Nintedanib	GSK429286A	NVP-TAE684	SB 203580	Ruxolitinib	PKC412	Lestaurtinib	GSK1838705A
+RPS6KA3		 GSK461364	KW2449	BI-D1870	Sunitinib	Palbociclib	PKC412	Lestaurtinib	GSK1838705A
+RPS6KA6		 GSK461364	KW2449	BI-D1870	Vandetanib	Fedratinib	Nintedanib	SB 203580	Tofacitinib	Ruxolitinib
+BTK		 Neratinib	BMX-IN-1	QL-XII-47	BMS-536924	Fedratinib	Nintedanib	WZ4002	QL-X-138	R406
+FGFR4		 HG-14-10-04	HG-9-91-01	BMS-536924	Brivanib	WZ-4-145	NVP-TAE684	R406	Ceritinib
+IGF1R		 KW2449	Sunitinib	BMS-536924	Crizotinib	Tozasertib	Foretinib	Ceritinib	MPS-1-IN-1
+INSR		 KW2449	HG-14-8-02	HG-14-10-04	Sunitinib	BMS-536924	Fedratinib	Crizotinib	HG-5-88-01	Tozasertib	R406	Foretinib	MPS-1-IN-1
+INSRR		 KW2449	HG-14-10-04	Sunitinib	Ibrutinib	BMS-536924	Crizotinib	Tozasertib
+JAK1		 KW2449	BMS-536924	Dovitinib	Fedratinib	Crizotinib	NVP-TAE684	Pictilisib	PKC412
+LTK		 KW2449	HG-14-10-04	BMS-536924	Vandetanib	Nintedanib	R406	Foretinib	HG-5-113-01	Erlotinib	Ruxolitinib	ZM-447439	Dactolisib	Linifanib	Lestaurtinib
+MAP3K9		 KW2449	Ibrutinib	BMS-536924	Nintedanib	Tozasertib	NVP-TAE684	Pazopanib
+ROS1		 HG-14-10-04	BMS-536924	Fedratinib	Tozasertib	Pazopanib	PKC412	Ceritinib
+SRPK1		 Sunitinib	BMS-536924	Dovitinib	Fedratinib	XMD11-85h	R406
+TNK1		 KW2449	Sunitinib	XMD-12	BMS-536924	Fedratinib	Crizotinib	Nintedanib	WH-4-023	Erlotinib	Tofacitinib
+TNK2		 Neratinib	BMS-536924	Crizotinib	WH-4-023	Foretinib	XMD8-85	Ki20227	ZM-447439	Ruxolitinib	PKC412
+NEK6		 Dactolisib	Fedratinib	KW2449	BMS-536924
+CDC42BPG		 KIN001-111	HG-9-91-01	BMS-536924	SB 203580	Foretinib
+RIOK1		 BMS-536924	Dovitinib	Fedratinib	Tozasertib	BX-912	R406	KIN001-220	PHA-665752
+CDK11B		 Foretinib	Crizotinib	Tozasertib	BMS345541
+IKBKB		 KW2449	Fedratinib	BMS345541
+MYLK4		 KW2449	BMS345541	Momelotinib	Fedratinib	Nintedanib	R406	Pictilisib	Enzastaurin	PKC412
+CDK11A		 Foretinib	Crizotinib	Tozasertib	BMS345541
+BMX		 BMX-IN-1	KIN001-123	R406	Foretinib	Bosutinib	Lestaurtinib
+CSNK1D		 Sunitinib	Bosutinib
+FES		 KW2449	Neratinib	Sunitinib	Fedratinib	Crizotinib	R406	Foretinib	Bosutinib	Lestaurtinib
+MAP3K4		 Dasatinib	R406	Bosutinib
+MST1		 KW2449	Crizotinib	Tozasertib	NVP-TAE684	Bosutinib
+MYT1		 Dasatinib	Bosutinib
+NEK2		 GSK461364	Neratinib	KIN001-111	R406	Pazopanib	Bosutinib	GW843682X	PHA-665752
+RPS6KB1		 KW2449	Dovitinib	Nintedanib	Crizotinib	Bosutinib
+STK4		 KW2449	Neratinib	Dovitinib	Crizotinib	Tozasertib	NVP-TAE684	Bosutinib
+VRK2		 Bosutinib
+WEE1		 R406	Fedratinib	Bosutinib
+MAP3K12		 Neratinib	Sunitinib	Nintedanib	Crizotinib	Tozasertib	Bosutinib	PHA-665752	Lestaurtinib
+STK24		 Dovitinib	Nintedanib	Bosutinib	Lestaurtinib
+CASK		 Crizotinib	Lestaurtinib	NVP-TAE684	Bosutinib	SNS-032
+PKMYT1		 Dasatinib	Bosutinib
+MAP3K13		 KW2449	Neratinib	Dovitinib	Fedratinib	Crizotinib	Nintedanib	Tozasertib	Bosutinib	Lestaurtinib
+TLK1		 Sunitinib	R406	Bosutinib	Enzastaurin	Lestaurtinib
+PLK2		 Dovitinib	Bosutinib	Lestaurtinib	GSK461364
+CHEK2		 Neratinib	HG-14-10-04	KIN001-111	Gefitinib	Bosutinib	XMD11-50	Lestaurtinib	GSK1838705A
+MAST1		 Sunitinib	XMD15-27	Bosutinib	Ruxolitinib	PKC412
+DSTYK		 KW2449	Foretinib	Crizotinib	Bosutinib
+STK36		 Dasatinib	KIN001-111	HG-9-91-01	Fedratinib	R406	Pazopanib	Foretinib	Bosutinib	SNS-032	OTSSP167
+TNNI3K		 KIN001-111	HG-9-91-01	Nilotinib	Motesanib	Crizotinib	WH-4-023	R406	Foretinib	Bosutinib	Erlotinib	Sorafenib
+CAMK1D		 KW2449	Sunitinib	Fedratinib	NVP-TAE684	R406	Bosutinib	Ruxolitinib	PKC412
+NEK11		 Dasatinib	PLX-4720	R406	Bosutinib
+NUAK2		 Neratinib	Sunitinib	WZ4003	Dovitinib	Crizotinib	Tozasertib	Bosutinib	Tofacitinib	Ruxolitinib	PHA-665752
+LRRK2		 KW2449	Fedratinib	PHA-767491	Canertinib	Bosutinib	Tofacitinib	PKC412	GSK1838705A
+EIF2AK4		 KW2449	Sunitinib	Dovitinib	Fedratinib	Bosutinib
+FPGT-TNNI3K		 KIN001-111	HG-9-91-01	Nilotinib	Motesanib	Crizotinib	WH-4-023	R406	Foretinib	Bosutinib	Erlotinib	Sorafenib
+TEK		 Ibrutinib	HG-6-64-01	Crizotinib	Tozasertib	Brivanib	WH-4-025	R406	MLN8054	Linifanib	Lestaurtinib
+MAP4K4		 Neratinib	Sunitinib	Dovitinib	Nintedanib	Brivanib	NVP-TAE684	Foretinib	PKC412	GW843682X	PHA-665752
+MINK1		 Dasatinib	Brivanib	PHA-767491	Doramapimod	NVP-TAE684	TAK-715	PKC412	PHA-665752	Torin1
+MAP3K10		 PKC412	Foretinib	BX-912
+PDPK1		 KW2449	PKC412	BX-912
+AURKC		 Sunitinib	Fedratinib	Nintedanib	BX-912	Pazopanib	Ki20227	Erlotinib	PKC412	PHA-665752	Sorafenib
+AURKB		 KIN001-111	Sunitinib	Ibrutinib	Dovitinib	Fedratinib	Nintedanib	XMD16-144	BX-912	NVP-TAE684	R406	Ki20227	ZM-447439	Linifanib	OTSSP167	Sorafenib
+MARK4		 KW2449	Fedratinib	XMD11-85h	BX-912	MRT67307	PKC412	Lestaurtinib
+EPHB6		 KW2449	Nilotinib	Sunitinib	Dovitinib	Fedratinib	Nintedanib	PLX-4720	Canertinib	NVP-TAE684	R406	Sorafenib
+ERBB3		 HG-9-91-01	Vandetanib	Ibrutinib	WH-4-023	Canertinib	Gefitinib
+LYN		 KIN001-111	Nilotinib	Vandetanib	Tozasertib	Gefitinib	Pazopanib	Neratinib	Dovitinib	Fedratinib	Crizotinib	HG-6-64-01	Nintedanib	WH-4-023	Canertinib	HG-9-91-01	Erlotinib	Lestaurtinib	Sunitinib	Motesanib	NVP-TAE684	RAF 265	Ki20227	Imatinib
+TGFBR2		 PLX-4720	Canertinib	NVP-TAE684	R406	Ki20227	Lestaurtinib
+RIPK2		 KIN001-111	Ibrutinib	Crizotinib	PLX-4720	WH-4-023	Canertinib	Gefitinib	Pazopanib	R406	RAF 265	Erlotinib	Ki20227	Lestaurtinib
+SIK3		 MRT67307	HG-9-91-01	Lestaurtinib	Canertinib
+EGFR		 Dasatinib	HG-14-8-02	HG-14-10-04	CG-930	CP724714	HG-5-88-01	WZ-4-145	R406	Foretinib	TAK-715	Ceritinib	Lestaurtinib
+MAPK3		 NVP-TAE684	CG-930	SCH772984
+MTOR		 KU63794	QL-X-138	Pictilisib	CGP60474	GSK1059615	Torkinib	Torin2	ZSTK474
+ATM		 CP466722
+HIPK3		 KW2449	GSK 690693	CP466722	Nintedanib	PI103	Pictilisib	Lestaurtinib	Sorafenib
+ACVR1		 Dasatinib	KW2449	Vandetanib	Fedratinib	Crizotinib	Nintedanib	WH-4-023
+ACVR1B		 Dasatinib	Crizotinib
+EPHA1		 KW2449	HG-9-91-01	Nilotinib	Vandetanib	Fedratinib	Crizotinib	WH-4-023	Lestaurtinib
+EPHB1		 HG-9-91-01	Sunitinib	Vandetanib	Nintedanib	Crizotinib	WH-4-023	NVP-TAE684	R406	MLN8054	Linifanib
+FGR		 KW2449	HG-9-91-01	Nilotinib	Sunitinib	Vandetanib	Dovitinib	Nintedanib	Crizotinib	Tozasertib	NVP-TAE684	MLN8054	PKC412	Masitinib
+LIMK1		 Dasatinib	HG-9-91-01	Fedratinib	Crizotinib	WH-4-023	NVP-TAE684	Pazopanib	Foretinib	R406	Dactolisib
+LIMK2		 KIN001-111	HG-9-91-01	Crizotinib	PLX-4720	WH-4-023	WH-4-025	Dabrafenib	Pazopanib	Ki20227
+MUSK		 KW2449	Sunitinib	Dovitinib	Fedratinib	Crizotinib	HG-6-64-01	Nintedanib	Tozasertib	NVP-TAE684	R406	Sorafenib
+TESK1		 KIN001-111	HG-9-91-01	Crizotinib	WH-4-023	Dabrafenib	R406	Foretinib	Lestaurtinib
+TYRO3		 Crizotinib	Lestaurtinib
+DCLK1		 Fedratinib	Crizotinib	Sunitinib	Nintedanib
+IKBKE		 KW2449	Sunitinib	Dovitinib	Fedratinib	Crizotinib	Nintedanib	MRT67307	PKC412	PHA-665752
+Tek		 Crizotinib
+SIK2		 KW2449	HG-9-91-01	Sunitinib	Vandetanib	Nintedanib	Crizotinib	Foretinib	MRT67307	PKC412
+NEK9		 KW2449	Fedratinib	Crizotinib	NVP-TAE684	Foretinib
+DCLK2		 XMD-12	Fedratinib	Crizotinib	Ruxolitinib	PHA-665752
+ANKK1		 R406	Ruxolitinib	Crizotinib	Sunitinib
+NEK8		 KW2449	Fedratinib	Crizotinib	NVP-TAE684	Foretinib
+CDK18		 Nintedanib	Foretinib	Dabrafenib
+PIK3C2B		 HG-9-91-01	Omipalisib	Dabrafenib	Lapatinib	Pictilisib	ZSTK474	Taselisib	Torin1
+TGFBR1		 Dasatinib	HG-9-91-01	Dabrafenib	NVP-TAE684	Lestaurtinib
+COQ8A		 Dasatinib	HG-5-88-01	OTSSP167	Dabrafenib
+COQ8B		 Fedratinib	HG-14-10-04	HG-5-88-01	Dabrafenib
+MET		 KW2449	Nintedanib	Tozasertib	NVP-TAE684	R406	Ki20227	Dactolisib	PKC412	Lestaurtinib
+PIK3R1		 Dactolisib	Torin1
+ACVR2A		 Dasatinib	KW2449
+ACVR2B		 Dasatinib	KW2449
+ACVRL1		 Dasatinib	Vandetanib
+MAP4K3		 Dasatinib	KW2449	KIN001-111	Sunitinib	Dovitinib	Nintedanib	Tozasertib	Foretinib	PKC412	PHA-665752	Lestaurtinib
+MAP4K1		 Dasatinib	Nilotinib	HG-6-64-01	NVP-TAE684	Pazopanib	Linifanib	PHA-665752
+NLK		 Dasatinib	Foretinib	Lestaurtinib	Sorafenib
+WEE2		 Dasatinib
+CDC42BPB		 Nilotinib	Foretinib	KIN001-111	Doramapimod
+CDK19		 PLX-4720	SNS-032	Doramapimod	Sorafenib
+MAP3K20		 KW2449	Fedratinib	Doramapimod	Masitinib
+ITK		 KW2449	KIN001-127	Dovitinib	Fedratinib	Nintedanib	KIN001-123	Tozasertib	R406	Lestaurtinib
+PAK3		 KW2449	Dovitinib	Nintedanib	R406	PKC412
+PRKAA1		 KW2449	Dovitinib	R406	Foretinib	PKC412	PHA-665752
+PRKAA2		 KW2449	Dovitinib	Tozasertib	R406	PKC412	PHA-665752
+SRPK2		 Sunitinib	Dovitinib	Fedratinib	Tozasertib	PKC412	PHA-665752
+PIP4K2B		 Dovitinib	Fedratinib	PKC412	Tozasertib
+RPS6KA4		 GSK461364	Sunitinib	Dovitinib	Fedratinib	Nintedanib	Ruxolitinib	PKC412	Lestaurtinib
+CDKL2		 Dovitinib	Foretinib	Sorafenib
+STK38		 KW2449	Sunitinib	Dovitinib	NVP-TAE684	Lestaurtinib
+AAK1		 Dovitinib	Tozasertib	NVP-TAE684	R406	Ruxolitinib	PHA-665752
+SGK3		 Dovitinib	Sunitinib
+SRPK3		 KW2449	Dovitinib	Fedratinib	Tozasertib	R406	MRT67307
+STK39		 KW2449	Sunitinib	Dovitinib	Nintedanib	NVP-TAE684	XMD15-27
+HIPK2		 KW2449	GSK 690693	Dovitinib	Nintedanib	PI103	PHA-767491	Foretinib	Pictilisib	Enzastaurin	PHA-665752	Lestaurtinib
+HUNK		 KW2449	Sunitinib	Dovitinib	NVP-TAE684	PKC412	Lestaurtinib
+STK26		 Sunitinib	Ibrutinib	Dovitinib	NVP-TAE684	Lestaurtinib
+RIOK2		 Dovitinib	PI103	PLX-4720	Tozasertib	Pazopanib	Pictilisib
+C8orf44-SGK3		 Dovitinib	Sunitinib
+PRKACB		 R406	PKC412	Enzastaurin	Lestaurtinib
+PRKCA		 PKC412	Enzastaurin	Lestaurtinib
+PRKG2		 KW2449	NVP-TAE684	Enzastaurin	Ruxolitinib
+ICK		 Sunitinib	PHA-665752	Enzastaurin	SNS-032
+Prkca		 Enzastaurin
+Prkcg		 Enzastaurin
+Prkcb		 Enzastaurin
+Prkcz		 Enzastaurin
+Prkce		 Enzastaurin
+Prkch		 Enzastaurin
+Prkcq		 Enzastaurin
+Prkcd		 Enzastaurin
+Ulk3		 Sunitinib	Erlotinib
+MYLK2		 PHA-665752	Erlotinib	SNS-032
+AIM1		 KIN001-111	Sunitinib	Fedratinib	Nintedanib	NVP-TAE684	R406	ZM-447439	MLN8054	Linifanib	Sorafenib
+CAMK2D		 GSK461364	Fedratinib	Sunitinib	NVP-TAE684
+CAMK2G		 Sunitinib	Fedratinib	NVP-TAE684	R406	Ruxolitinib	PKC412
+CSNK2A1		 PKC412	Fedratinib	Palbociclib	Sunitinib
+FLG		 KW2449	Sunitinib	Fedratinib	Tozasertib	NVP-TAE684	Pazopanib	Foretinib	R406	Lestaurtinib
+MARK1		 KW2449	Fedratinib	R406	MRT67307	PKC412
+MARK3		 MRT67307	Fedratinib	Sunitinib	Nintedanib
+PLK1		 Fedratinib	R406	Ruxolitinib	Lestaurtinib	OTSSP167
+STK11		 KW2449	Fedratinib	PKC412
+TTK		 KW2449	Fedratinib	Pazopanib	Foretinib	Ruxolitinib	PKC412	MPS-1-IN-1
+IRAK3		 KW2449	HG-14-10-04	Sunitinib	Fedratinib	NVP-TAE684	Pazopanib	Foretinib	PKC412	PHA-665752
+SNRK		 NVP-TAE684	Fedratinib	Sunitinib
+NEK7		 KW2449	Fedratinib
+NEK5		 Fedratinib
+MAPK12		 R406	Foretinib	Lestaurtinib
+TEC		 NVP-TAE684	Foretinib	MLN8054
+CDC42BPA		 Foretinib	KIN001-111
+MELK		 KW2449	Sunitinib	GSK 690693	Tozasertib	Foretinib	Torin1	PKC412	GW843682X	OTSSP167
+RIPK4		 KW2449	Vandetanib	Nintedanib	Tozasertib	R406	Foretinib
+CLK4		 R406	Foretinib	PKC412	Ruxolitinib	GW843682X	SNS-032
+CAMKK1		 KW2449	Sunitinib	Nintedanib	Foretinib	PKC412
+MYO3B		 Foretinib	HG-14-10-04	Lestaurtinib
+SIK1		 KW2449	Neratinib	HG-9-91-01	Nintedanib	PLX-4720	WH-4-025	Foretinib	MRT67307	PKC412
+nan		 NVP-TAE684	Foretinib	MLN8054
+SIK1B		 KW2449	Neratinib	Nintedanib	PLX-4720	WH-4-025	Foretinib	PKC412
+CAMK4		 Sunitinib	GSK1838705A	GSK 690693
+MARK2		 KW2449	Sunitinib	GSK 690693	R406	MRT67307	Ruxolitinib	PKC412
+PAK1		 Neratinib	NVP-TAE684	R406	GSK 690693
+PAK2		 R406	GSK 690693
+PRKCI		 GSK 690693
+PRKG1		 GSK 690693	NVP-TAE684	PKC412	GW843682X	Lestaurtinib
+DCLK3		 Sunitinib	GSK 690693	Nintedanib	R406	Ruxolitinib
+CSNK1G2		 GSK1059615	Sunitinib	KW2449
+NEK10		 GSK1059615	HG-9-91-01
+TSSK1B		 R406	GW843682X	HG-14-10-04	GSK1838705A
+PLK3		 GSK461364	PHA-767491	NVP-TAE684	Ruxolitinib	NPK76-II-72-1
+BRSK1		 NVP-TAE684	GW843682X
+CHEK1		 KW2449	Nintedanib	HG-14-10-04	Sunitinib
+PTK6		 KIN001-111	HG-9-91-01	Ibrutinib	Vandetanib	WH-4-023	R406	TAK-715	XMD11-50
+EIF2AK3		 Ibrutinib
+BCR		 Imatinib
+CA3		 Imatinib	Nilotinib
+CA6		 Imatinib	Nilotinib
+CA7		 Imatinib
+CA12		 Imatinib	Nilotinib
+NQO2		 Imatinib
+TBXAS1		 Imatinib	SB 203580
+CA14		 Imatinib	Nilotinib
+PRKX		 JNK-IN-8	PKC412	PHA-767491
+PAK4		 KIN001-111
+FKBP1A		 KU63794
+MST1R		 KW2449	NVP-TAE684	R406	PHA-665752
+PDK1		 KW2449	PKC412
+MAP2K3		 KW2449	NVP-TAE684	R406	Ruxolitinib
+MAP2K6		 KW2449	R406
+DYRK2		 KW2449	R406	Sunitinib
+MYO3A		 KW2449	Lestaurtinib
+PI4KB		 NVP-TAE684	Lapatinib	R406	Pazopanib	Lestaurtinib
+BMPR1A		 NVP-TAE684	WH-4-023	Lestaurtinib
+MATK		 Lestaurtinib
+PIK3C2G		 PKC412	Pictilisib	Lestaurtinib
+CAMK1		 Sigma A6730	Sunitinib	NVP-TAE684	R406	Ruxolitinib	Lestaurtinib
+DLK1		 Sunitinib	Lestaurtinib
+CDKL1		 MRT67307	Lestaurtinib
+MAP3K6		 Lestaurtinib
+PRPF4		 Sunitinib	Lestaurtinib
+CDKL3		 WH-4-023	Tozasertib	Lestaurtinib	Sorafenib
+CAMK1G		 R406	Nintedanib	Sunitinib	Lestaurtinib
+STK32B		 Linifanib
+STK32A		 Linifanib
+GABRA1		 MLN8054
+Crybg1		 MLN8054
+Aurkb		 MLN8054
+CA4		 Nilotinib
+GSK3A		 Nintedanib	RO-3306
+LATS1		 Nintedanib	Sunitinib
+ERN1		 NVP-TAE684	Sunitinib
+GCK		 NVP-TAE684	Sunitinib	Torin1
+GRK5		 NVP-TAE684	Ruxolitinib
+PHKA2		 NVP-TAE684	Sunitinib
+MAPK1		 NVP-TAE684	SCH772984
+STK16		 Sunitinib	Tozasertib	NVP-TAE684	Pazopanib	Ruxolitinib	PKC412
+BRSK2		 NVP-TAE684	XMD11-85h	PKC412
+MAP3K15		 NVP-TAE684
+SGK1		 OTSSP167
+MAK		 PHA-665752
+CSNK1G3		 Sunitinib	PHA-767491
+DYRK4		 PHA-767491
+PASK		 PHA-767491
+CSNK1G1		 Sunitinib	PHA-767491	TAK-715
+PBK		 PHA-767491
+CCNT1		 Seliciclib	PHA-793887
+CDKL5		 PHA-793887
+AKT2		 PKC412	Sigma A6730
+CAMK2B		 Ruxolitinib	PKC412	XMD15-27
+TNKS2		 PKC412
+NEK1		 R406
+PRKCG		 R406
+MAPK13		 R406
+NEK4		 R406
+TLK2		 R406	Sunitinib
+PIP5K1C		 R406
+PAK6		 R406
+BUB1B-PAK6		 R406
+MAPK6		 SNS-032
+HTR2C		 Sorafenib
+Abl1		 Sorafenib
+Pdgfrb		 Sorafenib
+KCNH2		 Sunitinib
+PRKAB1		 Sunitinib
+PRKAB2		 Sunitinib
+OXSR1		 Sunitinib
+SGK2		 Sunitinib
+TSSK2		 Sunitinib
+Stk3		 Sunitinib
+CSNK1A1L		 Sunitinib
+OSR1		 Sunitinib
+PIK3C3		 Torin1	Taselisib
+PIK3C2A		 Torin1
+ARAF		 Vemurafenib
