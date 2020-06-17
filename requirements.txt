@@ -3,6 +3,3 @@ pandas
 numpy
 matplotlib
 plotly
-textwrap
-os
-urllib
