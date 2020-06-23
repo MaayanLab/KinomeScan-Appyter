@@ -13,7 +13,7 @@ If a small molecule is inputted for KINOMEscan, the appyter will return a table 
 If a small molecule is inputted for TAS, the appyter will return the list of kinases it binds to with their approximate Kd values. The appyter will generate a bar chart displaying the kinases, sorted by Kd. 
 
 
-For both KINOMEscan and TAS, users can hover over each bar to see the kinases associated with each equilibrium dissociation constant or % control. 
+For both KINOMEscan and TAS, users can hover over each bar in the generated bar chart to see the kinases associated with each equilibrium dissociation constant or % control. 
 
 
 
