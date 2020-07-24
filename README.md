@@ -18,3 +18,5 @@ For both KINOMEscan and TAS, users can hover over each bar in the generated bar 
 
 
 Similarly, if a kinase is inputted for KINOMEscan or TAS, the appyter will return a table or list of small molecules that bind to it. The appyter will also generate an interactive bar chart displaying the small molecules sorted by equilibrium dissociation constant or % Control.
+
+For KINOMEscan data, users can upload/input a kinase list to retrieve the top drugs targeting those kinases. Users also have the option of uploading/inputting a gene list. Kinase Enrichment Analysis will be conducted on the gene list to determine the top associated kinases, and then the appyter will return the top drugs for these kinases. 
