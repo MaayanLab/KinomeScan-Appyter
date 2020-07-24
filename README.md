@@ -1,4 +1,4 @@
-# KINOMEscan and TAS Vectors Appyter
+# KINOMEscan and TAS Vectors Data Visualization Appyter
 Appyter to visualize KINOMEscan and TAS Vectors data and integrate it with KEA3
 
 This appyter creates bar charts for the visualization of KINOMEScan assay data and Target Affinity Spectrum (TAS) vectors data from the Harvard Medical School Library of Integrated Network-based Cellular Signatures (HMS LINCS) database.
